@@ -1,0 +1,10 @@
+COM SITE É MELHOR — ARQUIVOS DO SITE
+
+O arquivo principal é index.html.
+Ele já contém as imagens incorporadas e funciona sozinho; a pasta assets também acompanha os arquivos selecionados do portfólio.
+
+PARA PUBLICAR NO GITHUB PAGES:
+1. Extraia este ZIP.
+2. Abra a pasta Com-Site-e-Melhor.
+3. Envie o arquivo index.html e a pasta assets para a raiz do repositório (não envie a pasta externa Com-Site-e-Melhor como uma subpasta).
+4. Em Settings > Pages, selecione Deploy from a branch, branch main e pasta /(root).
